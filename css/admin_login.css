@@ -1,0 +1,13 @@
+#btn-submit{
+    width: 40vh;
+    background-color: #EAC738;
+    text-align: center;
+
+}
+#btn-submit:hover{
+    transform: translateY(-0.25em);
+}
+.card{
+    background: #eee;
+    box-shadow: 0 8px 8px #a18d3d;
+}
